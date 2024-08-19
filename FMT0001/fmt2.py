@@ -21,7 +21,7 @@ import json, re, time, traceback
 from datetime import datetime
 
 API_TOKEN = 'BOT_TOKEN'
-ALLOWED_USERS = [USER_ID] # you tg user_id 
+ALLOWED_USERS = [USER_ID] # your tg user_id 
 bot = telebot.TeleBot(API_TOKEN)
 
 current_directory = os.getcwd()
