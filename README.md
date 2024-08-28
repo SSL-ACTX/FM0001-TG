@@ -1,5 +1,5 @@
 
-# FMT0001-TG
+# SCTG_0002
 
 This repository contains a Telegram bot designed to manage files and directories on your local system. The bot provides functionalities such as listing files and directories, searching for files, downloading files or directories, and navigating the file system.
 
@@ -32,8 +32,9 @@ This one's just my one of my goofy codes or so...
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/SSL-ACTX/FMT0001-TG.git
-   cd FMT0001-TG
+   git clone https://github.com/SSL-ACTX/SCTG_0002.git
+   cd SCTG_0002
+
    ```
 
 2. **Install the required dependencies:**
